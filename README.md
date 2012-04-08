@@ -1,4 +1,4 @@
-These are the scripts for my series of screencasts entitled [Node.js: Step by Step][1] for the [Nettuts+][2] website.
+This repository has moved
+=========================
 
-[1]: http://net.tutsplus.com/sessions/node-js-step-by-step/
-[2]: http://net.tutsplus.com/
+You can find the scripts for this series, as well as the tutorial code, [here](https://github.com/croach/nodejs-step-by-step).
